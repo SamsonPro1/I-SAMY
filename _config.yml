@@ -1,0 +1,9 @@
+title: My Jekyll Site
+description: A simple description of my site.
+baseurl: ""
+url: "https://yourdomain.com" # Replace with your domain
+theme: jekyll-theme-primer
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sass-converter
